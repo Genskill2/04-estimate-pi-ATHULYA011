@@ -38,6 +38,7 @@ int main(void) {
     }
   }
 }
+
 float mc_pi(int n){
   float x,y;
   int i=0,circle=0;
@@ -73,5 +74,3 @@ float mc_pi(int n){
   
   
 }
-
-
