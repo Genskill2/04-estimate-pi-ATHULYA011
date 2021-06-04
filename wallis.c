@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
-  float wallis_pi(int);
+
+float wallis_pi(int);
+
 {float pi=1.0;
   for (int i=1;i<n; i++)
 {
